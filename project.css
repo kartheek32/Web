@@ -1,0 +1,36 @@
+form {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    /* margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px; */
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 10%;
+    border-radius: 20px;
+    background-color: white;
+}
+
+input {
+    padding: 10px;
+    border-radius: 15px;
+    border-radius: 1px solid black;
+}
+
+button {
+    padding: 10px;
+    border-radius: 15px;
+}
+
+body {
+    background-color: rgb(19, 20, 19);
+}
+
+h1 {
+    color: rgb(233, 25, 25);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
